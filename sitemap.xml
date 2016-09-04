@@ -7,13 +7,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kimmerty.github.io/index.html</loc>
+    <loc>http://kimmerty.github.io/assets/hosts</loc>
     <lastmod>2016-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://kimmerty.github.io/wasatch.html</loc>
+    <loc>http://kimmerty.github.io/assets/mvps.bat</loc>
+    <lastmod>2016-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/images/patch%20painter.jpg</loc>
+    <lastmod>2016-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/index.html</loc>
     <lastmod>2016-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -32,6 +44,18 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/cheat-stuff.html</loc>
+    <lastmod>2016-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/school.html</loc>
+    <lastmod>2016-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/adobe-creative-cloud.html</loc>
     <lastmod>2016-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
