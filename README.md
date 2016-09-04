@@ -1,2 +1,0 @@
-# kimmerty.github.io
-website

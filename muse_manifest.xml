@@ -1,19 +1,16 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1473018599910">
-  <folder name="assets">
-    <file name="ultimate-ap-test-cheat-sheet.docx" crc="210355543" seo="true" mt="1472956745000"/>
-  </folder>
-  <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:wasatch"/>
-  </folder>
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1473020945513">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_a-master.css" crc="86079084" ref="index:misc:games"/>
-    <file name="index.css" crc="416086085" ref="index"/>
+    <file name="master_b-master.css" crc="147577301" ref="wasatch:cheat-stuff"/>
+    <file name="master_a-master.css" crc="86079084" ref="misc:index:games"/>
     <file name="misc.css" crc="3830305324" ref="misc"/>
+    <file name="index.css" crc="416086085" ref="index"/>
     <file name="wasatch.css" crc="112317578" ref="wasatch"/>
     <file name="games.css" crc="4161727071" ref="games"/>
     <file name="cheat-stuff.css" crc="4124232691" ref="cheat-stuff"/>
-    <file name="master_b-master.css" crc="147577301" ref="wasatch:cheat-stuff"/>
+  </folder>
+  <folder name="assets">
+    <file name="ultimate-ap-test-cheat-sheet.docx" crc="210355543" seo="true" mt="1472956745000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:wasatch:misc:games:cheat-stuff"/>
@@ -23,9 +20,12 @@
     <file name="jquery.watch.js" crc="4244854265" ref="index:wasatch:misc:games:cheat-stuff"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:wasatch:misc:games:cheat-stuff"/>
   </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:wasatch"/>
+  </folder>
   <file name="index.html" crc="275624628" seo="true" mt="1473018000681" redirect="true"/>
-  <file name="wasatch.html" crc="4176504497" seo="true" mt="1473018593730" redirect="true"/>
+  <file name="wasatch.html" crc="4176504497" seo="true" mt="1473020926295" redirect="true"/>
   <file name="misc.html" crc="383852105" seo="true" mt="1473018000681" redirect="true"/>
   <file name="games.html" crc="248217909" seo="true" mt="1473018000681" redirect="true"/>
-  <file name="cheat-stuff.html" crc="224129988" seo="true" mt="1473018593730" redirect="true"/>
+  <file name="cheat-stuff.html" crc="224129988" seo="true" mt="1473020926295" redirect="true"/>
 </manifest>
