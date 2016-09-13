@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1473024881737">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1473734422012">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b-master.css" crc="147577301" ref="cheat-stuff:school"/>
@@ -6,15 +6,17 @@
     <file name="misc.css" crc="518286224" ref="misc"/>
     <file name="index.css" crc="416086085" ref="index"/>
     <file name="games.css" crc="213088825" ref="games"/>
-    <file name="cheat-stuff.css" crc="3981212135" ref="cheat-stuff"/>
+    <file name="cheat-stuff.css" crc="3898223540" ref="cheat-stuff"/>
     <file name="master_c-master.css" crc="3998690884" ref="misc:adobe-creative-cloud"/>
     <file name="school.css" crc="112317578" ref="school"/>
     <file name="adobe-creative-cloud.css" crc="529457207" ref="adobe-creative-cloud"/>
   </folder>
   <folder name="assets">
-    <file name="ultimate-ap-test-cheat-sheet.docx" crc="210355543" seo="true" mt="1472956745000"/>
+    <file name="ultimate-ap-test-cheat-sheet.docx" crc="243140495" seo="true" mt="1473209442000"/>
     <file name="hosts" crc="3938140947" seo="true" mt="1473023590000"/>
     <file name="mvps.bat" crc="4241607472" seo="true" mt="1473023603000"/>
+    <file name="ap-test-study-guide.docx" crc="410309166" seo="true" mt="1473728227000"/>
+    <file name="ultimate-ap-test-cheat-sheet-(1).docx" crc="210355543" seo="true" mt="1473734060000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud"/>
@@ -27,11 +29,12 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:school"/>
     <file name="patch painter.jpg" crc="3801924142" seo="true" ref="adobe-creative-cloud"/>
+    <file name="favicon.ico" crc="528511144" ref="index"/>
   </folder>
-  <file name="index.html" crc="4090523681" seo="true" mt="1473021442827" redirect="true"/>
-  <file name="misc.html" crc="3976155323" seo="true" mt="1473024044369" redirect="true"/>
-  <file name="games.html" crc="533297145" seo="true" mt="1473021432493" redirect="true"/>
-  <file name="cheat-stuff.html" crc="4257913780" seo="true" mt="1473021402189" redirect="true"/>
-  <file name="school.html" crc="508823443" seo="true" mt="1473021402191" redirect="true"/>
-  <file name="adobe-creative-cloud.html" crc="4046537300" seo="true" mt="1473024044369" redirect="true"/>
+  <file name="index.html" crc="4261463229" seo="true" mt="1473734359597" redirect="true"/>
+  <file name="misc.html" crc="113826710" seo="true" mt="1473734359597" redirect="true"/>
+  <file name="games.html" crc="216914520" seo="true" mt="1473734359597" redirect="true"/>
+  <file name="cheat-stuff.html" crc="117556488" seo="true" mt="1473734359597" redirect="true"/>
+  <file name="school.html" crc="246379525" seo="true" mt="1473734359597" redirect="true"/>
+  <file name="adobe-creative-cloud.html" crc="3960177681" seo="true" mt="1473734359597" redirect="true"/>
 </manifest>

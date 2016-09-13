@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kimmerty.github.io/assets/ultimate-ap-test-cheat-sheet.docx</loc>
-    <lastmod>2016-09-03</lastmod>
+    <lastmod>2016-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,44 +19,56 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://kimmerty.github.io/assets/ap-test-study-guide.docx</loc>
+    <lastmod>2016-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/assets/ultimate-ap-test-cheat-sheet-(1).docx</loc>
+    <lastmod>2016-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://kimmerty.github.io/images/patch%20painter.jpg</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/index.html</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/misc.html</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/games.html</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/cheat-stuff.html</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/school.html</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/adobe-creative-cloud.html</loc>
-    <lastmod>2016-09-04</lastmod>
+    <lastmod>2016-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
