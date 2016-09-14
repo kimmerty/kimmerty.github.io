@@ -1,7 +1,7 @@
 .version.cheat_stuff /* version checker */
 {
-	color: #000006;
-	background-color: #E07568;
+	color: #000019;
+	background-color: #2ECD37;
 }
 
 #muse_css_mq
@@ -354,7 +354,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u293-51
+#u293-52
 {
 	z-index: 34;
 	min-height: 300px;
@@ -364,22 +364,6 @@
 	margin-top: 4px;
 	width: 84.2%;
 	left: 15.81%;
-}
-
-#u742
-{
-	z-index: 85;
-	height: 320px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	max-width: 100000px;
-	min-width: 100px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 240px;
-	width: 41.38%;
-	left: 17.02%;
 }
 
 .html

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1473890743752">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1473890987883">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b-master.css" crc="147577301" ref="cheat-stuff:school"/>
@@ -6,7 +6,7 @@
     <file name="misc.css" crc="518286224" ref="misc"/>
     <file name="index.css" crc="416086085" ref="index"/>
     <file name="games.css" crc="213088825" ref="games"/>
-    <file name="cheat-stuff.css" crc="115373416" ref="cheat-stuff"/>
+    <file name="cheat-stuff.css" crc="422497591" ref="cheat-stuff"/>
     <file name="master_c-master.css" crc="3998690884" ref="misc:adobe-creative-cloud"/>
     <file name="school.css" crc="112317578" ref="school"/>
     <file name="adobe-creative-cloud.css" crc="529457207" ref="adobe-creative-cloud"/>
@@ -34,7 +34,7 @@
   <file name="index.html" crc="4261463229" seo="true" mt="1473734359597" redirect="true"/>
   <file name="misc.html" crc="113826710" seo="true" mt="1473734359597" redirect="true"/>
   <file name="games.html" crc="216914520" seo="true" mt="1473734359597" redirect="true"/>
-  <file name="cheat-stuff.html" crc="3806258590" seo="true" mt="1473890735827" redirect="true"/>
+  <file name="cheat-stuff.html" crc="126718698" seo="true" mt="1473890982824" redirect="true"/>
   <file name="school.html" crc="246379525" seo="true" mt="1473734359597" redirect="true"/>
   <file name="adobe-creative-cloud.html" crc="3960177681" seo="true" mt="1473734359597" redirect="true"/>
 </manifest>
