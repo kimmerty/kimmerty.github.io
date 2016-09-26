@@ -110,11 +110,6 @@
 	background-color: transparent;
 }
 
-#u532,#u539,#u576,#u597,#u619
-{
-	background-color: transparent;
-}
-
 #u622
 {
 	background-color: #C4C4C4;
@@ -130,12 +125,42 @@
 	background-color: #6B6B6B;
 }
 
-#u622.MuseMenuActive
+#u625-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u532,#u539,#u576,#u597,#u619,#u968
+{
+	background-color: transparent;
+}
+
+#u969
+{
+	background-color: #C4C4C4;
+}
+
+#u622.MuseMenuActive,#u969:hover
 {
 	background-color: #999999;
 }
 
-#u625-4
+#u969:active
+{
+	background-color: #6B6B6B;
+}
+
+#u969.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u971-4
 {
 	border-width: 0px;
 	border-color: transparent;

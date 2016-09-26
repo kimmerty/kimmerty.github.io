@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://kimmerty.github.io/assets/ultimate-ap-test-cheat-sheet.docx</loc>
-    <lastmod>2016-09-18</lastmod>
+    <lastmod>2016-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,7 +32,13 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/images/patch%20painter.jpg</loc>
-    <lastmod>2016-09-18</lastmod>
+    <lastmod>2016-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/images/high%20score%20in%20bsm2.jpg</loc>
+    <lastmod>2016-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,19 +50,19 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/misc.html</loc>
-    <lastmod>2016-09-12</lastmod>
+    <lastmod>2016-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/games.html</loc>
-    <lastmod>2016-09-12</lastmod>
+    <lastmod>2016-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/cheat-stuff.html</loc>
-    <lastmod>2016-09-18</lastmod>
+    <lastmod>2016-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,7 +74,25 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/adobe-creative-cloud.html</loc>
-    <lastmod>2016-09-12</lastmod>
+    <lastmod>2016-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/spanish-extra-credit.html</loc>
+    <lastmod>2016-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/misc-cheat-sheets-etc.html</loc>
+    <lastmod>2016-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/ahk.html</loc>
+    <lastmod>2016-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

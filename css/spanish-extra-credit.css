@@ -1,7 +1,7 @@
-.version.cheat_stuff /* version checker */
+.version.spanish_extra_credit /* version checker */
 {
-	color: #000019;
-	background-color: #C977D5;
+	color: #00001F;
+	background-color: #3E006B;
 }
 
 #muse_css_mq
@@ -12,13 +12,13 @@
 #page
 {
 	z-index: 1;
-	min-height: 349.67530899999997px;
+	min-height: 350px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding-top: 88px;
-	padding-bottom: 62.32469100000003px;
+	padding-bottom: 62px;
 	width: 100%;
 	max-width: 1280px;
 	margin-left: auto;
@@ -345,168 +345,25 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u293-24
+#u438.MuseMenuActive #u441-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u918-18
 {
 	z-index: 34;
-	min-height: 300px;
+	min-height: 410px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	width: 84.2%;
-	left: 15.81%;
-}
-
-#menuu795
-{
-	z-index: 58;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 111px;
-	width: 25.49%;
-	left: 39.92%;
-}
-
-#u796
-{
-	min-height: 127px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 49.69%;
-}
-
-#u799
-{
-	background-color: #FF741E;
-	padding-bottom: 110px;
-	position: relative;
-	width: 100%;
-}
-
-#u799:hover
-{
-	background-color: #BCAA00;
-	min-height: 0px;
-	width: 100%;
-	margin: 0px 0px 0px 0%;
-}
-
-#u802-4
-{
-	min-height: 17px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	top: 55px;
-	width: 100%;
-}
-
-#u438.MuseMenuActive #u441-4,#u799:hover #u802-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u799:active #u802-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u882
-{
-	min-height: 127px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	width: 49.69%;
-	left: 50.32%;
-}
-
-#u885
-{
-	background-color: #FF741E;
-	padding-bottom: 110px;
-	position: relative;
-	width: 100%;
-}
-
-#u885:hover
-{
-	background-color: #BCAA00;
-	min-height: 0px;
-	width: 100%;
-	margin: 0px 0px 0px 0%;
-}
-
-#u799:active,#u885:active
-{
-	background-color: #855400;
-	min-height: 0px;
-	width: 100%;
-	margin: 0px 0px 0px 0%;
-}
-
-#u888-4
-{
-	min-height: 17px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	top: 55px;
-	width: 100%;
-}
-
-#u799.MuseMenuActive #u802-4,#u885:hover #u888-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u885:active #u888-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-#u885.MuseMenuActive #u888-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 100%;
-	margin: 0px -10000px 0px 0%;
-}
-
-.MenuItem /* unifiedNavBar */
-{
-	cursor: pointer;
+	margin-top: 3px;
+	width: 84.68%;
+	left: 15.33%;
 }
 
 .html
