@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1475705719845">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1475973024180">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b-master.css" crc="147577301" ref="cheat-stuff:school:misc-cheat-sheets-etc:spanish-extra-credit"/>
@@ -10,7 +10,7 @@
     <file name="master_c-master.css" crc="3895836948" ref="misc:adobe-creative-cloud:ahk"/>
     <file name="school.css" crc="112317578" ref="school"/>
     <file name="adobe-creative-cloud.css" crc="3815467302" ref="adobe-creative-cloud"/>
-    <file name="misc-cheat-sheets-etc.css" crc="510686565" ref="misc-cheat-sheets-etc"/>
+    <file name="misc-cheat-sheets-etc.css" crc="138447328" ref="misc-cheat-sheets-etc"/>
     <file name="ahk.css" crc="4052047155" ref="ahk"/>
     <file name="spanish-extra-credit.css" crc="360596391" ref="spanish-extra-credit"/>
   </folder>
@@ -30,9 +30,9 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:school:cheat-stuff:games:spanish-extra-credit"/>
+    <file name="blank.gif" crc="4208392903" ref="index:school:cheat-stuff:games:spanish-extra-credit:misc-cheat-sheets-etc"/>
     <file name="patch painter.jpg" crc="3801924142" seo="true" ref="adobe-creative-cloud"/>
-    <file name="favicon.ico" crc="528511144" ref="index:misc:spanish-extra-credit"/>
+    <file name="favicon.ico" crc="528511144" ref="index:misc:spanish-extra-credit:misc-cheat-sheets-etc"/>
     <file name="high score in bsm2.jpg" crc="132176303" seo="true" ref="ahk"/>
   </folder>
   <file name="index.html" crc="4261463229" seo="true" mt="1473734359597" redirect="true"/>
@@ -42,6 +42,6 @@
   <file name="school.html" crc="246379525" seo="true" mt="1473734359597" redirect="true"/>
   <file name="adobe-creative-cloud.html" crc="3982732457" seo="true" mt="1474925529605" redirect="true"/>
   <file name="spanish-extra-credit.html" crc="4067826328" seo="true" mt="1475705704206" redirect="true"/>
-  <file name="misc-cheat-sheets-etc.html" crc="4215696100" seo="true" mt="1474853561066" redirect="true"/>
+  <file name="misc-cheat-sheets-etc.html" crc="4200500951" seo="true" mt="1475972827185" redirect="true"/>
   <file name="ahk.html" crc="231551260" seo="true" mt="1474925529605" redirect="true"/>
 </manifest>
