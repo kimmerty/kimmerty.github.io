@@ -1,18 +1,20 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1475973024180">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1476396323639">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_b-master.css" crc="147577301" ref="cheat-stuff:school:misc-cheat-sheets-etc:spanish-extra-credit"/>
+    <file name="master_b-master.css" crc="147577301" ref="cheat-stuff:school:misc-cheat-sheets-etc:spanish-extra-credit:english-extra-credit-vocab"/>
     <file name="master_a-master.css" crc="86079084" ref="index:games"/>
     <file name="misc.css" crc="4019408402" ref="misc"/>
     <file name="index.css" crc="416086085" ref="index"/>
-    <file name="games.css" crc="496727170" ref="games"/>
-    <file name="cheat-stuff.css" crc="432633813" ref="cheat-stuff"/>
+    <file name="games.css" crc="4098720614" ref="games"/>
+    <file name="cheat-stuff.css" crc="440099736" ref="cheat-stuff"/>
     <file name="master_c-master.css" crc="3895836948" ref="misc:adobe-creative-cloud:ahk"/>
     <file name="school.css" crc="112317578" ref="school"/>
     <file name="adobe-creative-cloud.css" crc="3815467302" ref="adobe-creative-cloud"/>
     <file name="misc-cheat-sheets-etc.css" crc="138447328" ref="misc-cheat-sheets-etc"/>
     <file name="ahk.css" crc="4052047155" ref="ahk"/>
     <file name="spanish-extra-credit.css" crc="360596391" ref="spanish-extra-credit"/>
+    <file name="master_d-master.css" crc="3999934849" ref="games"/>
+    <file name="english-extra-credit-vocab.css" crc="4049598561" ref="english-extra-credit-vocab"/>
   </folder>
   <folder name="assets">
     <file name="ultimate-ap-test-cheat-sheet.docx" crc="309300147" seo="true" mt="1474324199000"/>
@@ -22,26 +24,27 @@
     <file name="ultimate-ap-test-cheat-sheet-(1).docx" crc="210355543" seo="true" mt="1473734060000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
-    <file name="museutils.js" crc="3790713428" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
-    <file name="whatinput.js" crc="84559013" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
+    <file name="museutils.js" crc="3790713428" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
+    <file name="whatinput.js" crc="84559013" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:school:cheat-stuff:games:spanish-extra-credit:misc-cheat-sheets-etc"/>
     <file name="patch painter.jpg" crc="3801924142" seo="true" ref="adobe-creative-cloud"/>
-    <file name="favicon.ico" crc="528511144" ref="index:misc:spanish-extra-credit:misc-cheat-sheets-etc"/>
+    <file name="favicon.ico" crc="528511144" ref="index:misc:spanish-extra-credit:misc-cheat-sheets-etc:games"/>
     <file name="high score in bsm2.jpg" crc="132176303" seo="true" ref="ahk"/>
   </folder>
   <file name="index.html" crc="4261463229" seo="true" mt="1473734359597" redirect="true"/>
   <file name="misc.html" crc="446077126" seo="true" mt="1474925529605" redirect="true"/>
-  <file name="games.html" crc="84864896" seo="true" mt="1474854032939" redirect="true"/>
-  <file name="cheat-stuff.html" crc="4140294804" seo="true" mt="1474853995119" redirect="true"/>
+  <file name="games.html" crc="533066967" seo="true" mt="1475973824782" redirect="true"/>
+  <file name="cheat-stuff.html" crc="103713968" seo="true" mt="1476396277968" redirect="true"/>
   <file name="school.html" crc="246379525" seo="true" mt="1473734359597" redirect="true"/>
   <file name="adobe-creative-cloud.html" crc="3982732457" seo="true" mt="1474925529605" redirect="true"/>
   <file name="spanish-extra-credit.html" crc="4067826328" seo="true" mt="1475705704206" redirect="true"/>
   <file name="misc-cheat-sheets-etc.html" crc="4200500951" seo="true" mt="1475972827185" redirect="true"/>
-  <file name="ahk.html" crc="231551260" seo="true" mt="1474925529605" redirect="true"/>
+  <file name="ahk.html" crc="512705212" seo="true" mt="1476056541511" redirect="true"/>
+  <file name="english-extra-credit-vocab.html" crc="3953023947" seo="true" mt="1476396221492" redirect="true"/>
 </manifest>

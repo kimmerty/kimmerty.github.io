@@ -1,7 +1,7 @@
 .version.games /* version checker */
 {
-	color: #00001D;
-	background-color: #9B7482;
+	color: #0000F4;
+	background-color: #4D8366;
 }
 
 #muse_css_mq
@@ -12,13 +12,13 @@
 #page
 {
 	z-index: 1;
-	min-height: 327px;
+	min-height: 307px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding-top: 102px;
-	padding-bottom: 71px;
+	padding-bottom: 91px;
 	width: 100%;
 	max-width: 1280px;
 	margin-left: auto;
@@ -267,7 +267,68 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u261.MuseMenuActive #u262-4
+#pmenuu999
+{
+	margin-top: 11px;
+	width: 96.88%;
+	margin-left: 1.57%;
+}
+
+#menuu999
+{
+	z-index: 27;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	width: 13.47%;
+}
+
+#u1000
+{
+	position: relative;
+	width: 100%;
+}
+
+#u1001
+{
+	min-height: 17px;
+	padding-bottom: 109px;
+	position: relative;
+	margin-right: -10000px;
+	width: 100%;
+}
+
+#u1001:hover
+{
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u1001:active
+{
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u1001.MuseMenuActive
+{
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u1003-4
+{
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 54px;
+	width: 100%;
+}
+
+#u261.MuseMenuActive #u262-4,#u1001:hover #u1003-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -276,15 +337,33 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u705-3
+#u1001:active #u1003-4
 {
-	z-index: 27;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u1001.MuseMenuActive #u1003-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 100%;
+	margin: 0px -10000px 0px 0%;
+}
+
+#u705-4
+{
+	z-index: 34;
 	min-height: 262px;
 	background-color: transparent;
-	margin-top: 31px;
 	position: relative;
-	width: 96.88%;
-	margin-left: 1.57%;
+	margin-right: -10000px;
+	width: 85.65%;
+	left: 14.36%;
 }
 
 .html

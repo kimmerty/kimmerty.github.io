@@ -32,13 +32,13 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/images/patch%20painter.jpg</loc>
-    <lastmod>2016-10-08</lastmod>
+    <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/images/high%20score%20in%20bsm2.jpg</loc>
-    <lastmod>2016-10-08</lastmod>
+    <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -56,13 +56,13 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/games.html</loc>
-    <lastmod>2016-09-25</lastmod>
+    <lastmod>2016-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://kimmerty.github.io/cheat-stuff.html</loc>
-    <lastmod>2016-09-25</lastmod>
+    <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -92,7 +92,13 @@
   </url>
   <url>
     <loc>http://kimmerty.github.io/ahk.html</loc>
-    <lastmod>2016-09-26</lastmod>
+    <lastmod>2016-10-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://kimmerty.github.io/english-extra-credit-vocab.html</loc>
+    <lastmod>2016-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
