@@ -1,7 +1,7 @@
 .version.spanish_extra_credit /* version checker */
 {
-	color: #0000EE;
-	background-color: #154955;
+	color: #0000E1;
+	background-color: #8B6F58;
 }
 
 #muse_css_mq
@@ -354,7 +354,7 @@
 	margin: 0px -10000px 0px 0%;
 }
 
-#u918-202
+#u918-250
 {
 	z-index: 34;
 	min-height: 410px;
@@ -366,7 +366,7 @@
 	left: 15.33%;
 }
 
-#u918-142
+#u918-190
 {
 	font-size: 20px;
 	line-height: 24px;
@@ -374,7 +374,7 @@
 	font-style: normal;
 }
 
-#u918-194
+#u918-242
 {
 	font-size: 24px;
 	line-height: 29px;
@@ -382,7 +382,7 @@
 	font-style: italic;
 }
 
-#u918-141,#u918-193
+#u918-189,#u918-241
 {
 	text-decoration: underline;
 }
