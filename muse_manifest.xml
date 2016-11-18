@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1479336893068">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kimmerty.github.io" resolutions="1x" timestamp="1479431068291">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_b-master.css" crc="147577301" ref="cheat-stuff:school:misc-cheat-sheets-etc:spanish-extra-credit:english-extra-credit-vocab"/>
@@ -14,7 +14,7 @@
     <file name="ahk.css" crc="4052047155" ref="ahk"/>
     <file name="spanish-extra-credit.css" crc="3784011608" ref="spanish-extra-credit"/>
     <file name="master_d-master.css" crc="3999934849" ref="games"/>
-    <file name="english-extra-credit-vocab.css" crc="4049598561" ref="english-extra-credit-vocab"/>
+    <file name="english-extra-credit-vocab.css" crc="17431761" ref="english-extra-credit-vocab"/>
   </folder>
   <folder name="assets">
     <file name="ultimate-ap-test-cheat-sheet.docx" crc="309300147" seo="true" mt="1474324199000"/>
@@ -32,9 +32,9 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:misc:games:cheat-stuff:school:adobe-creative-cloud:spanish-extra-credit:misc-cheat-sheets-etc:ahk:english-extra-credit-vocab"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:school:cheat-stuff:games:spanish-extra-credit:misc-cheat-sheets-etc"/>
+    <file name="blank.gif" crc="4208392903" ref="index:school:cheat-stuff:games:spanish-extra-credit:misc-cheat-sheets-etc:english-extra-credit-vocab"/>
     <file name="patch painter.jpg" crc="3801924142" seo="true" ref="adobe-creative-cloud"/>
-    <file name="favicon.ico" crc="528511144" ref="index:misc:spanish-extra-credit:misc-cheat-sheets-etc:games"/>
+    <file name="favicon.ico" crc="528511144" ref="index:misc:spanish-extra-credit:misc-cheat-sheets-etc:games:english-extra-credit-vocab"/>
     <file name="high score in bsm2.jpg" crc="132176303" seo="true" ref="ahk"/>
   </folder>
   <file name="index.html" crc="4261463229" seo="true" mt="1473734359597" redirect="true"/>
@@ -46,5 +46,5 @@
   <file name="spanish-extra-credit.html" crc="275691272" seo="true" mt="1479336881090" redirect="true"/>
   <file name="misc-cheat-sheets-etc.html" crc="4200500951" seo="true" mt="1475972827185" redirect="true"/>
   <file name="ahk.html" crc="512705212" seo="true" mt="1476056541511" redirect="true"/>
-  <file name="english-extra-credit-vocab.html" crc="3953023947" seo="true" mt="1476396221492" redirect="true"/>
+  <file name="english-extra-credit-vocab.html" crc="4226703096" seo="true" mt="1479431062791" redirect="true"/>
 </manifest>
